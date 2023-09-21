@@ -24,7 +24,7 @@ Working on & experimental stuff:
 
 * [ts to llvm compiler wip](https://github.com/Morglod/ts2llvm)
 * [run async js code in sync way](https://github.com/Morglod/sync_async)
-* [advenced ts compiler features](https://github.com/Morglod/tsts)
+* [advanced ts compiler features](https://github.com/Morglod/tsts)
 * [my react template](https://github.com/Morglod/react_template)
 
 ---
