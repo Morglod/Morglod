@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+* [use part of react context without unnecessary updates](https://github.com/Morglod/use-partial-context/)
 
 * [⚡ Fastest event emitter in the world - tseep ⚡](https://GitHub.com/Morglod/tseep)  
 [![GitHub stars](https://img.shields.io/github/stars/Morglod/tseep.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Morglod/tseep/)
