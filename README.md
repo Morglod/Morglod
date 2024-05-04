@@ -6,7 +6,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Morglod/tseep.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Morglod/tseep/)
 [![NPM Downloads](https://img.shields.io/npm/dw/tseep)](https://www.npmjs.com/package/tseep)
 
-* Creator of [Figma api](https://github.com/didoo/figma-api)  
+* [bun ffi generator](https://GitHub.com/Morglod/bun-ffi-gen)  
+[![GitHub stars](https://img.shields.io/github/stars/Morglod/bun-ffi-gen.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Morglod/bun-ffi-gen/)
+
+* Creator of [Figma api](https://github.com/didoo/figma-api) package  
 [![GitHub stars](https://img.shields.io/github/stars/didoo/figma-api.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/didoo/figma-api/)
 [![NPM Downloads](https://img.shields.io/npm/dw/figma-api)](https://www.npmjs.com/package/figma-api)
 
