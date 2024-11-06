@@ -33,6 +33,8 @@ Working on & experimental stuff:
 
 ---
 
+You can support me through: [Boosty](https://boosty.to/morglod)  
+
 [![GitHub followers](https://img.shields.io/github/followers/Morglod.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Morglod?tab=followers)
 
 <!--
