@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+* [⚡ Mox - best low level programming language ⚡](https://mox-lang.dev/)
+
 * [use part of react context without unnecessary updates](https://github.com/Morglod/use-partial-context/)
 
 * [⚡ Fastest event emitter in the world - tseep ⚡](https://GitHub.com/Morglod/tseep)  
